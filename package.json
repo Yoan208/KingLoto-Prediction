@@ -1,0 +1,15 @@
+
+{
+  "name": "kingloto-prediction",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.4",
+    "expo": "~50.0.0"
+  }
+}
